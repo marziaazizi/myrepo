@@ -7,3 +7,4 @@ git status
 =======
 The second line I wrote on my local computer
 >>>>>>> 74e3de1 (A third commit from my local computer)
+This is a line from my RStudio 
